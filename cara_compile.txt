@@ -1,0 +1,6 @@
+
+-- compile
+$ javac FileJava.java
+
+-- running
+$ java FileJava
