@@ -1,0 +1,3 @@
+- Scanner System.in
+- Convert input
+- Swing dialog
