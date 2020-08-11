@@ -1,0 +1,20 @@
+- nextByte()
+- nextShort()
+
+- nextInt()
+- nextLong()
+
+- nextFloat()
+- nextDouble()
+
+// ending spasi
+- next()
+
+// ending enter
+- nextLine()
+
+
+cara penggunaan library:
+------------------------
+import java.util.Scanner;
+Scanner masukan = new Scanner(System.in);
